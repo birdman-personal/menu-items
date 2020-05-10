@@ -7,4 +7,4 @@ Menu Items
 
 Menu Items Hover Effect Using HTML & CSS
 
-![](/assets/screen.gif)
+![](/screen.gif)
